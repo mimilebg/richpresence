@@ -1,0 +1,2 @@
+# richpresence
+RichPresence Discord.exe
